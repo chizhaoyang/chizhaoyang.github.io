@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Ph.D.** in Aerospace Engineering,                  expected Dec. 2020
+        West Virginia University, Morgantown, WV
+        Research Advisor: Dr. Yu Gu
+* **M.S.**  in Electrical Engineering                           Dec. 2015
+        Stevens Institute Technology, Hoboken, NJ
+* **B.S.**  in Electrical Engineering                           June 2012
+        Sichuan Normal University, Chengdu, China
 
 Work experience
 ======
@@ -26,7 +30,7 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
 Skills
 ======
 * Skill 1
@@ -41,19 +45,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
