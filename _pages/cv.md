@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* **Ph.D.** in Aerospace Engineering,                  expected Dec. 2020
-        West Virginia University, Morgantown, WV
-        Research Advisor: Dr. Yu Gu
-* **M.S.**  in Electrical Engineering                           Dec. 2015
-        Stevens Institute Technology, Hoboken, NJ
-* **B.S.**  in Electrical Engineering                           June 2012
-        Sichuan Normal University, Chengdu, China
+* **Ph.D.** in Aerospace Engineering, expected Dec. 2020
+  * West Virginia University, Morgantown, WV
+  * Research Advisor: Dr. Yu Gu
+* **M.S.**  in Electrical Engineering, Dec. 2015
+  * Stevens Institute Technology, Hoboken, NJ
+* **B.S.**  in Electrical Engineering, June 2012
+  * Sichuan Normal University, Chengdu, China
 
 Work experience
 ======
