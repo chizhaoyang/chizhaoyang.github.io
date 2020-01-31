@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chizhao Yang | Homepage"
+title                    : "Welcome to Chizhao Yang's Homepage"
 title_separator          : "-"
 name                     : &name "Chizhao Yang"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chizhao Yang"
   avatar           : "porfile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "A Robotic Worker"
   location         : "Morgantown, WV"
   employer         : "West Virginia University"
   pubmed           :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/chizhaoyang"
+  github           : "chizhaoyang"
   google_plus      :
   keybase          :
   instagram        :
