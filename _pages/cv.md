@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV](https://chizhaoyang.github.io/files/paper1.pdf)
+[Download my CV](https://chizhaoyang.github.io/files/curriculum_vitae_Chizhao_Yang_Dec_2019.pdf)
 
-<object data="https://chizhaoyang.github.io/files/paper1.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://chizhaoyang.github.io/files/paper1.pdf">
+<object data="https://chizhaoyang.github.io/files/curriculum_vitae_Chizhao_Yang_Dec_2019.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://chizhaoyang.github.io/files/curriculum_vitae_Chizhao_Yang_Dec_2019.pdf">
     </embed>
 </object>
