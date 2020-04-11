@@ -8,18 +8,17 @@ redirect_from:
 ---
 
 {% include base_path %}
+NASA Sample Return Robot Centennial Challenge (Year 2016)
+------
 
-Localization System Design for Pollination Robot BrambleBee
-======
+Precision Pollination Robot
+------
 
-Cooperative Magnetic Navigation
-======
+Cooperative UAV Navigation using Inter-Vehicle Ranging and Magnetic Measurements
+------
 
-Lidar-based SLAM Systems
-======
-
-Human Robot Interaction Obstacle Avoidance System Design
-======
+Applying Autonomous Mobile Robots on Human-Robot Collaboration and Safety In Smart Warehouses
+------
 
 Path Planning
-======
+------
