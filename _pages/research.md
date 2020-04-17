@@ -20,7 +20,8 @@ Related paper:
 Gu, Yu, Jared Strader, **Chizhao Yang** et al. "Robot foraging: Autonomous sample return in a large outdoor environment." *IEEE Robotics & Automation Magazine* 25, no. 3 (2018): 93-101.
 
 Video:
-https://youtu.be/ThKvmDHuXdU
+
+[![center](http://img.youtube.com/vi/ThKvmDHuXdU/0.jpg)](http://www.youtube.com/watch?v=ThKvmDHuXdU "NASA Sample Return Robot Centennial Challenge (Year 2016)")
 
 Precision Pollination Robot
 ------
