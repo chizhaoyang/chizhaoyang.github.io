@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-NASA Sample Return Robot Centennial Challenge (Year 2016)
+[NASA Sample Return Robot Centennial Challenge (Year 2016)](http://www.youtube.com/watch?v=ThKvmDHuXdU)
 ===
 The main idea of NASA Sample Return Robot(SRR) Centennial Challenge was to encourage inovators to build fully-autonomous robots that can find, retrieve, and return samples in a large (~80,000m^2) outdoor environment without relying on Earth based technologies (e.g. GPS or magnetormeter). In 2016, the robot we built, named "Cataglyphis", completed the final SRR Challenge and won a $750,000 prize.
 
@@ -25,7 +25,7 @@ Video:
 [![](http://img.youtube.com/vi/ThKvmDHuXdU/0.jpg)](http://www.youtube.com/watch?v=ThKvmDHuXdU "NASA Sample Return Robot Centennial Challenge (Year 2016)")
 [![](http://img.youtube.com/vi/I5ILl1QPxr0/0.jpg)](http://www.youtube.com/watch?v=I5ILl1QPxr0 "2017 Robotic Easter Egg Hunt by Cataglyphis")
 
-Precision Pollination Robot
+[Precision Pollination Robot](http://www.youtube.com/watch?v=66isrgth7-Q)
 ===
 The objective for this project is to design a prototype pollinator robot, named BrambleBee, and perform proof-of-concept demonstrations of its effectiveness for brambles (i.e. blackberry and raspberry) pollination in a greenhouse environment. During the project, we developed the ability to precisely locate, evaluate, interact, and manipulate small and delicate plant structures within unstructured, low-dynamic, and GPS-challenged environments, which is an enabling technology for supporting future integrated crop management systems.
 
@@ -55,7 +55,7 @@ Videos:
 
 Cooperative Navigation using Inter-Vehicle Ranging and Magnetic Measurements
 ===
-The objective of this research project is to enable groups of networked vehicles to perform robust relative and global navigation with global magnetic measurements.
+The objective of this research project is to enable groups of networked vehicles to perform robust relative and global navigation using inter-vehicle ranging and magnetic measurements.
 
 The project contains three subprojects:
 
@@ -65,8 +65,13 @@ The project contains three subprojects:
 2. UAV simulator with limited communication and the Earth's magnetic anomaly measurements.
 
 
-3. SMART robot experiments with limited raning information and the magnetic intensity measurements.
+3. SMART robot experiments with limited ranging information and the magnetic intensity measurements.
 
+Related papers:
+
+**Yang, Chizhao**, Jared Strader, Yu Gu, Alexander Hypes, Aaron Canciani, and Kevin Brink. "Cooperative UAV Navigation using Inter-Vehicle Ranging and Magnetic Anomaly Measurements." In *2018 AIAA Guidance, Navigation, and Control Conference*, p. 1595. 2018.
+
+**Yang, Chizhao**, Jared Strader, Yu Gu, Aaron Canciani, and Kevin Brink, "Cooperative UAV Navigation using Magnetic Anomaly Measurements and Limited Inter-Vehicle Ranging Information." *Journal of Aerospace Information Systems*, in press.
 
 Applying Autonomous Mobile Robots on Human-Robot Collaboration and Safety In Smart Warehouses
 ===
