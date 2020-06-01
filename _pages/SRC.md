@@ -1,15 +1,15 @@
 ---
 layout: archive
 title: ""
-permalink:
+permalink: /research/src/
 author_profile: true
 redirect_from:
-
+  - /research
 ---
 
 {% include base_path %}
 
-[NASA Sample Return Robot Centennial Challenge (Year 2016)](http://https://chizhaoyang.github.io/_pages/SRC.md)
+NASA Sample Return Robot Centennial Challenge (Year 2016)
 ===
 The main idea of NASA Sample Return Robot(SRR) Centennial Challenge was to encourage inovators to build fully-autonomous robots that can find, retrieve, and return samples in a large (~80,000m^2) outdoor environment without relying on Earth based technologies (e.g. GPS or magnetormeter). In 2016, the robot we built, named "Cataglyphis", completed the final SRR Challenge and won a $750,000 prize.
 
