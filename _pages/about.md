@@ -17,10 +17,14 @@ Research Interests
 ======
 
 **Robotics**  
-Perception and Localization, SLAM, Path Planning, Multi-agnet Navigation;
+Perception and Localization, SLAM, Path Planning, Multi-agent Navigation;
 
 **Sensors**  
 Sensor Fusing, LiDAR-Camera-INS-based Navigation;
 
 **Application**  
 Autonomous Driving, Service Robots, Warehouse Robots.
+
+Personal Interests
+======
+Travel, Photography, Cooking
